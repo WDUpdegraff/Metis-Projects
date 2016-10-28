@@ -1,3 +1,5 @@
+# This deals with the fact that there were tables with and without a closing date
+
 import pandas as pd
 import csv
 
