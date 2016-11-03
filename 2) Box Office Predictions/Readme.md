@@ -1,0 +1,1 @@
+For this project, I examined the determinants of box office success in terms of the ratio of total gross to budget and built a model to predict films worth investing in, based on data scraped from boxofficemojo.
