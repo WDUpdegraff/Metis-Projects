@@ -1,0 +1,1 @@
+This project seeks to classify the Boston restaurants with the 10% largest number of health code violations. Data is from from yelp/drivendata competition and boston public crime incident reports. The model is an ensemble of a gradient boosting model of engineered/non-text features and Logistic Regression on TFIDF bag of words/bigrams.
